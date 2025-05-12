@@ -19,8 +19,8 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /><br>PHP</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br>Java</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /><br>SQL</td>
-    <td align="center"><img src="https://www.svgrepo.com/show/303251/oracle-logo.svg" width="40" /><br>PL/SQL</td>
-    <td align="center"><img src="https://dbeaver.io/wp-content/uploads/2018/04/logo.png" width="40" /><br>DBeaver</td>
+    <td align="center"><img src="https://i.imgur.com/tIbwLdh.png" width="40" /><br>PL/SQL</td>
+    <td align="center"><img src="https://i.imgur.com/7DtdN0K.png" width="40" /><br>DBeaver</td>
   </tr>
 </table>
 
@@ -28,32 +28,19 @@
 
 ## 📌 Sobre mim
 
-- 🧠 Apaixonado por **backend, dados e performance**
-- 🧰 Especialista em **consultas otimizadas e modelagem de dados**
-- 🛠️ Trabalho com **manutenção, criação e documentação de APIs**
-- 📘 Foco em **limpeza de código e clareza estrutural**
-- 📈 Sempre buscando **melhoria contínua e novos desafios**
-
----
-
-## 📊 Nível de proficiência (autoavaliação)
-
-```mermaid
-pie
-    title Domínio das ferramentas
-    "PHP": 25
-    "Java": 20
-    "SQL/PLSQL": 35
-    "DBeaver": 10
-    "Outros": 10
-```
+- 🧠 Apaixonado por <strong>backend, dados e performance</strong>
+- 🧰 Especialista em <strong>consultas otimizadas e modelagem de dados</strong>
+- 🛠️ Trabalho com <strong>manutenção, criação e documentação de APIs</strong>
+- 📘 Foco em <strong>limpeza de código e clareza estrutural</strong>
+- 📈 Sempre buscando <strong>melhoria contínua e novos desafios</strong>
 
 ---
 
 ## 📫 Contato
 
-- GitHub: [github.com/viiniciusdev](https://github.com/viiniciusdev)
-- LinkedIn: [linkedin.com/in/viníciusmartinscota](https://www.linkedin.com/in/viníciusmartinscota)
+- 📞 (31) 97114-0539
+- 📧 viinicius10qaz@gmail.com
+- 💼 [linkedin.com/in/viníciusmartinscota](https://www.linkedin.com/in/viníciusmartinscota)
 
 ---
 
