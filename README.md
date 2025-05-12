@@ -19,8 +19,8 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /><br>PHP</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br>Java</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /><br>SQL</td>
-    <td align="center"><img src="https://i.imgur.com/sbHF9nE.jpeg" width="40" /><br>PL/SQL</td>
-    <td align="center"><img src="https://i.imgur.com/qDGXnR3.jpeg" width="40" /><br>DBeaver</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/viiniciusdev/viiniciusdev/main/oracle_plsql.png" width="40" /><br>PL/SQL</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/viiniciusdev/viiniciusdev/main/dbeaver_logo.png" width="40" /><br>DBeaver</td>
   </tr>
 </table>
 
