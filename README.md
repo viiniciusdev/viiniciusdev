@@ -11,6 +11,7 @@
 </p>
 
 ---
+<div align="center">
 
 ## 🚀 Tecnologias que domino
 
