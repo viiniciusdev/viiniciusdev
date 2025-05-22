@@ -11,9 +11,9 @@
 </p>
 
 ---
-<p align="center">
-## 🚀 Tecnologias que domino
 
+## 🚀 Tecnologias que domino
+<p align="center">
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /><br>PHP</td>
