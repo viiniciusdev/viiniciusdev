@@ -13,6 +13,7 @@
 ---
 
 ## 🚀 Tecnologias que domino
+<div align="center">
 
 <table>
   <tr>
