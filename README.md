@@ -23,7 +23,6 @@
     <td align="center"><img src="https://raw.githubusercontent.com/viiniciusdev/viiniciusdev/main/DBeaver.png" width="40" /><br>DBeaver</td>
   </tr>
 </table>
-
 </p>
 
 ---
