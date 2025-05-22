@@ -25,6 +25,8 @@
   </tr>
 </table>
 
+</p>
+
 ---
 
 ## 📌 Sobre mim
