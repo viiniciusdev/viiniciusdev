@@ -12,7 +12,6 @@
 
 ---
 <p align="center">
-
 ## 🚀 Tecnologias que domino
 
 <table>
