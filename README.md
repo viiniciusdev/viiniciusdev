@@ -11,9 +11,8 @@
 </p>
 
 ---
-
-## 🚀 Tecnologias que domino
 <div align="center">
+## 🚀 Tecnologias que domino
 
 <table>
   <tr>
