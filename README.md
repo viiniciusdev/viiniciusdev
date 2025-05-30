@@ -22,6 +22,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /><br>MySQL</td>
     <td align="center"><img src="https://raw.githubusercontent.com/viiniciusdev/viiniciusdev/main/oracle.png" width="40" /><br>PL/SQL</td>
     <td align="center"><img src="https://raw.githubusercontent.com/viiniciusdev/viiniciusdev/main/DBeaver.png" width="40" /><br>DBeaver</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/viiniciusdev/viiniciusdev/main/DBeaver.png" width="40" /><br>DBeaver</td>
   </tr>
 </table>
 
