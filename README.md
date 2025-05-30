@@ -1,5 +1,5 @@
 <h1 align="center">Vinícius Martins Cota</h1>
-<h3 align="center">💻 Desenvolvedor Backend • PHP • Java • SQL • PL/SQL • DBeaver</h3>
+<h3 align="center">💻 Desenvolvedor Backend • PHP • Java • MySQL • PL/SQL • DBeaver • SQL Server</h3>
 
 <p align="center">
   <a href="https://github.com/viiniciusdev">
