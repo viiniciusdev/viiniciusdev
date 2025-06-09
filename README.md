@@ -28,7 +28,7 @@
 
 ---
 
-## 📌 Sobre mim
+##  Sobre mim
 
 - 🧠 Apaixonado por <strong>backend, dados e performance</strong>
 - 🧰 Especialista em <strong>consultas otimizadas e modelagem de dados</strong>
@@ -38,7 +38,7 @@
 
 ---
 
-## 📫 Contato
+##  Contato
 
 - 📞 (31) 97114-0539
 - 📧 viinicius10qaz@gmail.com
@@ -46,6 +46,6 @@
 
 ---
 
-<p align="center">🧩 Simplicidade, performance e código limpo são minha base.</p>
+<p align="center"> Simplicidade, performance e código limpo são minha base.</p>
 
 
